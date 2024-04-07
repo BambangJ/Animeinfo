@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Animeinfo</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="birt_date">Birt Date</string>
+    <string name="country">Country</string>
+    <string name="apply">Apply</string>
+    <string name="one_piece">One Piece</string>
+    <string name="rent">Rent</string>
+    <string name="buy">Buy</string>
+    <string name="rating">4,9</string>
+    <string name="type">Family</string>
+    <string name="percentage">97%</string>
+    <string name="familiarity">Similar</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mollis quam vel pulvinar tempus. Pellentesque elementum ipsum felis, porta egestas diam elementum eu. Integer in consequat quam, quis pretium est. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed eget odio malesuada, placerat est quis, tempor purus. Etiam risus neque, semper ac mauris non, dictum molestie ligula. Pellentesque porta ac eros in imperdiet.
+
+Pellentesque tincidunt leo eu purus laoreet, nec fringilla lacus pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque sem metus, pellentesque in facilisis vitae, ullamcorper sed libero. Cras ullamcorper massa libero. Vestibulum eros odio, hendrerit sit amet mauris ac, cursus varius urna. Nunc quis ex nec justo posuere commodo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam ornare commodo leo, eget venenatis nibh tempor vitae.
+
+Aliquam dictum scelerisque tincidunt. Aliquam a tellus vel ipsum tempus tristique. In tempus, nunc sed fringilla luctus, est libero condimentum eros, nec tincidunt nisl justo vitae nisi. Aliquam sed mauris felis. Praesent imperdiet velit quis nisi varius, eu placerat elit imperdiet. Nullam fermentum odio odio. Curabitur sit amet aliquam massa. Nullam nec aliquet ante. Donec semper ac erat id efficitur. Mauris id mauris ac est facilisis congue sit amet et neque. Vivamus sit amet lorem neque. Praesent dapibus, quam eu ultricies consequat, nibh diam imperdiet metus, ut laoreet risus urna vel mauris. Praesent tincidunt ultricies vestibulum.
+
+Curabitur lacinia feugiat lectus et mollis. Maecenas nec sem laoreet, laoreet nisi eu, auctor eros. Pellentesque malesuada lacus id ipsum pretium elementum. Nunc a nulla molestie, pulvinar tellus nec, dignissim tellus. Duis porttitor eros eget fermentum porta. Nulla turpis metus, dignissim a turpis et, dapibus mattis magna. Nulla non fermentum magna, sit amet maximus diam.
+
+Nam eu sagittis sem, ac volutpat orci. Donec sollicitudin quam et quam rhoncus, non accumsan eros euismod. Mauris rhoncus mollis lorem, sodales dictum elit lacinia in. Nullam ullamcorper bibendum eros ac suscipit. Cras aliquet quam at nisi gravida imperdiet. Curabitur rhoncus neque eu laoreet luctus. Curabitur orci mi, condimentum ut felis a, tincidunt porttitor ligula. Etiam congue, purus sed iaculis dapibus, lacus mi feugiat elit, ac ullamcorper velit eros in sem. Pellentesque quis odio porttitor, viverra odio ut, posuere magna. Donec in sem bibendum, rutrum neque non, molestie massa. Curabitur cursus vehicula viverra. Vestibulum nec nisi sed dui mollis porttitor vel sed massa. Vivamus tempus laoreet ex, a vehicula magna lobortis in. Donec suscipit in mauris non consequat.</string>
+</resources>
